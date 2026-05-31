@@ -1,1 +1,13 @@
-
+## Module 1: Python Coding Practices and Packaging Concepts
+- Reading 1a: Python with Flask for Large-Scale Projects
+- Application Development Lifecycle
+- Introduction to Web Applications and APIs
+- Demo: Working with an IDE
+- Lab 1a: Getting Started with IDE 
+- Python Style Guide and Coding Practices
+- Reading 1b: Static Code Analysis Resources
+- Lab 1b: Static Code Analysis
+- Unit Testing
+- Lab 1c: Practice Session and Assignment on Unit Testing
+- Packaging
+- Lab 1d: Practice Session and Assignment on Python Packaging
