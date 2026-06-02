@@ -11,9 +11,9 @@ https://www.coursera.org/learn/python-project-for-ai-application-development
 - Reading 1b: Static Code Analysis Resources
 - Lab 1b: Static Code Analysis
 - Unit Testing
-- Lab 1c: Practice Session and Assignment on Unit Testing
+- Lab 1c: Unit Testing
 - Packaging
-- Lab 1d: Practice Session and Assignment on Python Packaging
+- Lab 1d: Python Packaging
 
 ## Module 2: Web App Deployment using Flask
 - Python Libraries and Frameworks for Application Development
