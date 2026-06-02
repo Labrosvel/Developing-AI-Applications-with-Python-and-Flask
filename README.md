@@ -7,7 +7,7 @@ https://www.coursera.org/learn/python-project-for-ai-application-development
 - Introduction to Web Applications and APIs
 - Demo: Working with an IDE
 - Lab 1a: Getting Started with IDE 
-- Python Style Guide and Coding Practices
+- Python Style Guide and Coding Practices (PEP8)
 - Reading 1b: Static Code Analysis Resources
 - Lab 1b: Static Code Analysis
 - Unit Testing
