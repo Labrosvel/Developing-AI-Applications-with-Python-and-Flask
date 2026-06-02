@@ -1,3 +1,6 @@
+# Developing AI Applications with Python and Flask
+https://www.coursera.org/learn/python-project-for-ai-application-development
+
 ## Module 1: Python Coding Practices and Packaging Concepts
 - Reading 1a: Python with Flask for Large-Scale Projects
 - Application Development Lifecycle
